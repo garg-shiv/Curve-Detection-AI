@@ -1,8 +1,7 @@
-# Demo Video / Code Working
+# Code Working
 
 ## Overview
-This file provides a detailed description of the functionality and demonstration of the code. For visual representation, please refer to the demo video or screenshots provided in the repository.
-
+This file provides a detailed description of the functionality and demonstration of the code. 
 ## Image Details
 
 ### 1. Hand-drawn Rectangle
@@ -60,7 +59,4 @@ You can modify the symmetry thresholds to suit your needs:
 
 ## Additional Information
 For a detailed explanation of each function and its purpose, please refer to the code comments and documentation provided.
-
-## Demo Video
-Watch the demo video to see the code in action: [Demo Video](https://drive.google.com/file/d/1eRScXt_NPfY_5DEr8KryrpJg0cAKz_yc/view)
 
